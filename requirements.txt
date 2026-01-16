@@ -1,0 +1,10 @@
+mcp
+fastapi
+uvicorn
+langgraph
+langchain-google-genai
+python-dotenv
+langchain-mcp-adapters
+pandas
+streamlit
+requests
