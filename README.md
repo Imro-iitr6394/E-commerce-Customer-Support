@@ -8,7 +8,7 @@ This project demonstrates a clean separation of concerns between:
 
 - **MCP Server** (`mcp_server.py`): Exposes deterministic e-commerce tools via HTTP/SSE
 - **Agent API** (`agent_api.py`): REST API wrapper around the LangGraph agent
-- **Streamlit UI** (`streamlit_app.py`): Modern web interface for conversations
+- **Streamlit UI** (`https://e-commerce-customer-support-ixiwt9skdg7ygdce6gyfbp.streamlit.app/`): Modern web interface for conversations
 - **Database** (`ecommerce.db`): SQLite database with product, order, and customer data
 
 The agent uses Google's Gemini API for intent classification and response generation, while tools provide reliable, structured access to business data.
